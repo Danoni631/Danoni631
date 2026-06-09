@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6ca30&size=35&center=true&vCenter=true&width=1000&lines=Hello+user;I+am+Danilo+from+OsJanelas,+but+you+can+call+me+Danoni!;Im+failed+to+login+in+OsJanelas+profile+with+2FA;But+im+back)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6ca30&size=25&center=true&vCenter=true&width=1000&lines=Hello+user;I+am+Danilo+from+OsJanelas,+but+u+can+call+me+Danoni!;Im+failed+to+login+in+OsJanelas+profile+with+2FA;But+im+back)](https://git.io/typing-svg)
 
 ### MAIN TOOLS
 [![my skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,github,python,powershell,bash)](https://skillicons.dev)

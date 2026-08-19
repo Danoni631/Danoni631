@@ -24,7 +24,7 @@ This guy skidded a lot of people, including me
 ---
 
 ## All languages i used
-[![my skills](https://skillicons.dev/icons?i=windows,cs,cpp,html,c,python,bash,powershell,net,ts,js,java,rust,php)](https://skillicons.dev)
-Have fsharp, but don't have a skill icon to fsharp
+[![my skills](https://skillicons.dev/icons?i=windows,cs,cpp,html,c,python,bash,net,js)](https://skillicons.dev)
+Im gonna back to use Java, FSharp and other
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=e6ca30&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 

@@ -11,7 +11,7 @@ Im am a brazilian programer
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danoni631&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danoni631&layout=compact&hide_border=true&title_color=e6ca30&text_color=e6ca30&bg_color=0d1117" />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BrCraft131313&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 <p align="center"><img src="cattyxor.png"></p>

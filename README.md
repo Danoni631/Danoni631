@@ -15,9 +15,6 @@ Im am a brazilian programer
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Danoni631&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center"><img src="cattyxor.png"></p>
-This guy skidded a lot of people, including me
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsJanelas&theme=tokyonight" alt="GitHub Streak" />
 </p>
